@@ -1,8 +1,7 @@
 <?php include 'templates/header.php' ?>
 <!-- Start Main Content -->
 
-<h2>Welcome to the Home Page</h3>
-<!-- <?php phpinfo(); ?> -->
+<p>Contact Us for more information...</p>
 
 <!-- End Main Content -->
 <?php include 'templates/footer.php' ?>
